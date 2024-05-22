@@ -1,6 +1,9 @@
 # 4.Execution_of_NetworkCommands
+
 ## AIM :Use of Network commands in Real Time environment
+
 ## Software : Command Prompt And Network Protocol Analyzer
+
 ## Procedure: To do this EXPERIMENT- follows these steps:
 <BR>
 In this EXPERIMENT- students have to understand basic networking commands e.g cpdump, netstat, ifconfig, nslookup ,traceroute and also Capture ping and traceroute PDUs using a network protocol analyzer 
@@ -27,6 +30,31 @@ This commands includes
 <BR>
 
 ## Output
+
+### IPCONFIG
+![image](cni.png)
+
+### NBTSTAT
+![image](cnii.png)
+
+### NSLOOKUP
+![image](cniii.png)
+
+### HOSTNAME
+![image](cniv.png)
+
+### TRACERT
+![image](cnv.png)
+
+### PING
+![image](cnvi.png)
+
+### NETSTAT
+![image](cnvii.png)
+
+### GETMAC
+![image](cnviii.png)
+
 
 ## Result
 Thus Execution of Network commands Performed 
